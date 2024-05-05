@@ -13,4 +13,11 @@
 
 }
 
+.ethImage{
+  background-image: url('/public/image-equilibrium.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 
